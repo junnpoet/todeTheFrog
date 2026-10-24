@@ -1,0 +1,18 @@
+{
+  "name": "tode-the-frog",
+  "version": "1.0.0",
+  "description": "A 3D isometric action survival browser game built with Three.js and Vite.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.181.2"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  }
+}
